@@ -61,6 +61,8 @@ Two tabs:
 - **Data Explorer** — filterable charts: salary distribution, salary by experience level, salary by remote ratio, top-paying job titles, and model feature importance.
 - **Salary Predictor** — pick job title, experience, location, etc., and get a live salary estimate from the trained model.
 
+#### View it in: [ds-salaries-prediction](https://dssalaries-yler2wp9fkxw9kjji2dezd.streamlit.app/)
+
 ## Model performance (held-out test set)
 
 | Metric | Value |
