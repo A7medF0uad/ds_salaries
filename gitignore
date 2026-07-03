@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+venv/
+.DS_Store
+data/ds_salaries.csv
