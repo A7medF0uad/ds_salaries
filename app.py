@@ -1,19 +1,3 @@
-"""
-app.py
-
-Streamlit dashboard for the DS Salaries project.
-
-Two tabs:
-  1. Data Explorer  -> interactive EDA over data/ds_salaries.csv
-  2. Salary Predictor -> live prediction using model/salary_model.pkl
-
-Run:
-    streamlit run app.py
-
-Before first run, train the model once:
-    python train_model.py
-"""
-
 from pathlib import Path
 
 import joblib
